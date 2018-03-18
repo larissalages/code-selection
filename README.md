@@ -13,11 +13,11 @@ unittest - https://pypi.python.org/pypi/unittest2
 ## Running the tests
 
 To run the tests of numbers.py do:
-
-python -m unittest test_numbers
-
+```
+	python -m unittest test_numbers
+```
 To run the tests of postcode.py do:
-
-python -m unittest postcode
-
+```
+	python -m unittest test_postcode
+```
 
